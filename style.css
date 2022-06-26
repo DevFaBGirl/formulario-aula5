@@ -1,6 +1,6 @@
 .container {
     position: absolute;
-    top: 45%;
+    top: 62%;
     left: 50%;
     transform: translate(-50%, -50%); 
     background-color: rgb(253, 253, 251); 
@@ -80,8 +80,8 @@ legend {
 .footer {
    
     position: absolute;
-    top: 82%;
-    left: 56%;
+    top: 117%;
+    left: 50%;
     color: white;
     transform: translate(-50%, -50%); 
     background-color: none;
